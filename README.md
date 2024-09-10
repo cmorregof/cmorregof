@@ -35,7 +35,7 @@ ES:
         ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-<!-- ![Carlitoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmorregof&show_icons=true&theme=transparent)>
+![Carlitoo's GitHub stats] (https://github-readme-stats.vercel.app/api?username=cmorregof&show_icons=true&theme=transparent)
 
 <!-- img  align="right" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZhcTh6OHEwNWxvd24wa2w2bzc2aWtyZTV3OGtneHh5MTNjenVlMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XGDJ1ExcBfvzYdBGbi/giphy.gif" width = "100"/>
 
