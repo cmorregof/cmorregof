@@ -1,9 +1,9 @@
 ![Banner presentación](banner_3.png)
 
-EN: 🔍 Data Analyst & Data Scientist | Mathematician & Statistical Specialist 📊📐 | Computer Science Student & Master's Candidate in Applied Mathematics 🎓 | Interested in Large Language Models (LLMs) and Deep Learning 🤖 | Rabbit Lover 🐰 and Anime Fan 🎌 | Blending Data Insights with Creativity and Fun.
+EN: 🔍 Data Analyst & Data Scientist | Interested in Large Language Models (LLMs) and Deep Learning 🤖 | Rabbit Lover 🐰 and Anime Fan 🎌 | Blending Data Insights with Creativity and Fun.
 
 ES:
-🔍 Analista de Datos & Científico de Datos | Matemático y Especialista en Estadística 📊📐 | Estudiante de Ciencias de la Computación y Maestrando en Matemática Aplicada 🎓 | Interés en los Grandes Modelos de Lenguaje (LLMs) y el Deep Learning 🤖 | Amante de los Conejos 🐰 y el Anime 🎌 | Fusionando Datos con Creatividad y Diversión.
+🔍 Analista de Datos & Científico de Datos | Interés en los Grandes Modelos de Lenguaje (LLMs) y el Deep Learning 🤖 | Amante de los Conejos 🐰 y el Anime 🎌 | Fusionando Datos con Creatividad y Diversión.
 ***
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmorregof) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cmorregofranco)
 ## ⚡️ A Few Quick Facts
@@ -18,7 +18,7 @@ ES:
 - 💬 Ask me about **Stats, Maths, p-value** or _anime's spoilers_
 - 📫 How to reach me: _cmorregofranco@gmail.com_
 - 😄 Pronouns: _He/him_
-- ⚡ **Fun fact**: I once trained a neural network to predict anime plot twists and... it actually got some right!
+- ⚡ **Fun fact**: I once trained a neural network to predict anime plot twists.
 >
 
 ## 🚀 Some Tools I Use
