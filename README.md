@@ -19,14 +19,28 @@
 
 ---
 
-```txt
-// BIOINFORMATICS PIPELINE · RESOLVING
+## `00_signal_map`
 
-SEQUENCE data ── EMBEDDING model ── LATENT GEOMETRY ── BIOLOGICAL signal
-       │                 │                  │                    │
-       └─────────────────┴────── AUDIT CORE ┴──────── temporal + taxonomic structure
-                                            │
-                                  INTERPRETABLE evidence
+```mermaid
+flowchart LR
+    A["SEQUENCE<br/>data"] --> B["EMBEDDING<br/>model"]
+    B --> C["LATENT<br/>geometry"]
+    C --> D["BIOLOGICAL<br/>signal"]
+
+    B --> E["representation<br/>audit"]
+    C --> E
+    E --> F["molecular<br/>structure"]
+    E --> G["temporal<br/>drift"]
+    E --> H["taxonomic<br/>pattern"]
+
+    F --> I["interpretable<br/>evidence"]
+    G --> I
+    H --> I
+
+    classDef core fill:#111111,stroke:#888888,color:#F2E9DC,stroke-width:1.2px;
+    classDef aux fill:#0E1116,stroke:#555555,color:#CFC7BA,stroke-width:1px;
+    class A,B,C,D,E,I core;
+    class F,G,H aux;
 ```
 
 > I am interested in models that make biological structure visible, auditable, and computationally useful.
