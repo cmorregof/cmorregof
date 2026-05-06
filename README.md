@@ -1,12 +1,12 @@
 <div align="center">
 
-<sub><code>SYSTEM STATUS // FOUNDER-LED PROFILE</code></sub>
+<sub><code>SYSTEM STATUS // RESEARCH PROFILE</code></sub>
 
 # CARLOS MANUEL ORREGO FRANCO
 
-### Mathematical modeling · Scientific ML · Formal reasoning · Agentic systems
+### Mathematical modeling · Scientific ML · Bioinformatics · Agentic systems
 
-<sub><code>APPLIED MATHEMATICS × COMPUTER SCIENCE × DECISION SYSTEMS</code></sub>
+<sub><code>APPLIED MATHEMATICS × COMPUTER SCIENCE × AI FOR SCIENCE</code></sub>
 
 <br/>
 
@@ -20,31 +20,31 @@
 ---
 
 ```txt
-// DECISION GRAPH · RESOLVING
+// BIOINFORMATICS PIPELINE · RESOLVING
 
-PROBLEM frame ── DATA sources ── UNCERTAINTY mapping ── CONSTRAINTS bounds
-        │               │                  │                    │
-        └───────────────┴────── MODEL CORE ┴──────── ML + NLP pipeline
-                                      │
-                              DECISION output ── ACTION deploy
+SEQUENCE data ── EMBEDDING model ── LATENT GEOMETRY ── BIOLOGICAL signal
+       │                 │                  │                    │
+       └─────────────────┴────── AUDIT CORE ┴──────── temporal + taxonomic structure
+                                            │
+                                  INTERPRETABLE evidence
 ```
 
-> Models frame uncertainty. Systems expose decisions.
+> I am interested in models that make biological structure visible, auditable, and computationally useful.
 
 ---
 
 ## `01_manifesto`
 
-I am a mathematician and computer scientist building at the intersection of **mathematical modeling**, **machine learning**, **scientific computing**, and **agentic workflows**.
+I am a mathematician and computer scientist working at the intersection of **bioinformatics**, **machine learning**, **scientific computing**, and **mathematical modeling**.
 
-My work is centered on one idea: rigorous models become real when they help people understand, decide, or act better.
+My current research explores how modern AI systems encode biological structure: from **sequence-model embeddings** to **latent spaces** where molecular, temporal, and taxonomic signals may quietly emerge.
 
 I care about systems where geometry, probability, and computation do not merely decorate the interface — they form the analytical core beneath it.
 
 ```yaml
 operating_principles:
   - rigor before hype
-  - analytical core before interface
+  - biological signal before aesthetic plots
   - interpretable models before theatrical complexity
   - research into systems
 ```
@@ -55,16 +55,16 @@ operating_principles:
 
 <table>
   <tr>
+    <td><strong>BIOINFORMATICS</strong></td>
+    <td>Studying biological sequence data through embeddings, representation learning, and computational analysis.</td>
+  </tr>
+  <tr>
     <td><strong>LATENT GEOMETRY</strong></td>
-    <td>Auditing biological sequence-model embeddings through molecular, temporal, and taxonomic structure.</td>
+    <td>Auditing molecular, temporal, and taxonomic structure in biological sequence-model representations.</td>
   </tr>
   <tr>
-    <td><strong>SCIENTIFIC ML</strong></td>
-    <td>Building reproducible pipelines for simulation, inference, validation, and model diagnosis.</td>
-  </tr>
-  <tr>
-    <td><strong>FORMAL REASONING</strong></td>
-    <td>Exploring LLM-based agents for theorem proving workflows, especially around Isabelle and combinatorics.</td>
+    <td><strong>AI FOR SCIENCE</strong></td>
+    <td>Building reproducible pipelines for scientific discovery, model diagnosis, and evidence-driven interpretation.</td>
   </tr>
   <tr>
     <td><strong>STOCHASTIC MODELING</strong></td>
@@ -76,25 +76,25 @@ operating_principles:
 
 ## `03_selected_systems`
 
-| System                    | Core idea                                                                                    | Signal                                                                      |
-| ------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| **The Velveteen Project** | Founder-led applied decision systems lab connecting rigorous modeling with deployable tools. | `applied-ai` · `decision-systems` · `research-to-systems`                   |
-| **EcoAgent**              | Stochastic climate-risk assistant for real-time landslide reasoning.                         | `SDEs` · `agents` · `risk-modeling`                                         |
-| **StochastoGreen**        | Climate transition-risk simulator for financial portfolios.                                  | `jump-diffusion` · `FastAPI` · `multi-agent interpretation`                 |
-| **Latent Geometry Audit** | Research pipeline for studying structure in biological sequence-model embeddings.            | `representation-analysis` · `computational biology` · `intrinsic dimension` |
-| **Isabelle Agent**        | Experimental workflow for formal theorem proving with LLM-based orchestration.               | `formal-methods` · `combinatorics` · `agentic-ai`                           |
+| System                           | Core idea                                                                                                         | Signal                                                               |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **The Velveteen Project**        | Founder-led applied decision systems lab connecting rigorous modeling with deployable tools.                      | `applied-ai` · `decision-systems` · `research-to-systems`            |
+| **Latent Geometry Audit**        | Research pipeline for studying structure in biological sequence-model embeddings.                                 | `bioinformatics` · `representation-analysis` · `intrinsic-dimension` |
+| **Influenza Embedding Analysis** | Computational study of molecular, temporal, and evolutionary-taxonomic geometry in viral protein representations. | `AntigenLM` · `protein-embeddings` · `AI-for-biology`                |
+| **EcoAgent**                     | Stochastic climate-risk assistant for real-time landslide reasoning.                                              | `SDEs` · `agents` · `risk-modeling`                                  |
+| **StochastoGreen**               | Climate transition-risk simulator for financial portfolios.                                                       | `jump-diffusion` · `FastAPI` · `multi-agent interpretation`          |
 
 ---
 
 ## `04_capabilities_map`
 
 ```txt
-mathematical modeling        ███████████████████░
+bioinformatics               ██████████████████░░
 scientific machine learning  ██████████████████░░
-latent representation audit  █████████████████░░░
-formal methods / Isabelle    ███████████████░░░░░
+latent representation audit  ███████████████████░
+mathematical modeling        ███████████████████░
 agentic AI systems           ████████████████░░░░
-computational biology        ███████████████░░░░░
+stochastic modeling          ████████████████░░░░
 ```
 
 ---
@@ -111,6 +111,7 @@ computational biology        ███████████████░░
 ![PyTorch](https://img.shields.io/badge/PyTorch-151515?style=for-the-badge\&logo=pytorch\&logoColor=F2E9DC)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-151515?style=for-the-badge\&logo=tensorflow\&logoColor=F2E9DC)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-151515?style=for-the-badge\&logo=scikitlearn\&logoColor=F2E9DC)
+![BioPython](https://img.shields.io/badge/BioPython-151515?style=for-the-badge\&logo=python\&logoColor=F2E9DC)
 ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge\&logo=latex\&logoColor=F2E9DC)
 ![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge\&logo=linux\&logoColor=F2E9DC)
 ![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge\&logo=git\&logoColor=F2E9DC)
@@ -129,10 +130,11 @@ background:
   - Statistical Specialization
   - MSc candidate in Applied Mathematics
 research_interests:
-  - Artificial Intelligence
+  - Bioinformatics
+  - Artificial Intelligence for Science
   - Scientific Computing
   - Computational Biology
-  - Formal Methods
+  - Representation Learning
   - Stochastic Modeling
 style:
   - rigorous
@@ -147,19 +149,21 @@ style:
 
 I am open to selected collaborations around:
 
+* **Bioinformatics**, biological sequence modeling, and protein/viral embedding analysis.
 * **AI for science** and representation analysis.
 * **Mathematical modeling** and scientific Python pipelines.
-* **Formal reasoning**, theorem proving, and agentic workflows.
 * **Applied decision systems** that need more than a chatbot layer.
 
 ---
 
 <div align="center">
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmorregof\&show_icons=true\&theme=transparent\&hide_border=true\&title_color=F2E9DC\&text_color=9CA3AF\&icon_color=F2E9DC)
-
-<br/>
+```txt
+CURRENT VECTOR
+bioinformatics × latent geometry × scientific ML × applied decision systems
+```
 
 <sub><code>“Research becomes real when it survives contact with the world.”</code></sub>
 
 </div>
+
