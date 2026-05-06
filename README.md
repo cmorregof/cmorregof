@@ -1,6 +1,3 @@
-![Velveteen Banner](banner_3.png)
-
-<div align="center">
 
 # Carlos Manuel Orrego Franco
 
