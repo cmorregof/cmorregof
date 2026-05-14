@@ -76,25 +76,25 @@ I care about models that can be audited, not just trained.
 ## Current Vector
 
 <pre>
-┌──────────────────────────────┐
-│ biological sequences          │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ foundation model embeddings   │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ latent geometry audit         │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ stochastic dynamics           │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ scientific interpretation     │
-└──────────────────────────────┘
+╭────────────────────────────────────────────────────────────╮
+│  CURRENT VECTOR                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  biological sequences                                      │
+│          │                                                 │
+│          ▼                                                 │
+│  biological foundation models                              │
+│          │                                                 │
+│          ▼                                                 │
+│  latent representation geometry                            │
+│          │                                                 │
+│          ▼                                                 │
+│  stochastic evolutionary dynamics                          │
+│          │                                                 │
+│          ▼                                                 │
+│  inspectable scientific systems                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 </pre>
 
 My thesis investigates **continuous stochastic modeling of antigenic drift in Influenza A** using latent SDEs guided by competitive fitness landscapes.
