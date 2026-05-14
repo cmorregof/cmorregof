@@ -3,10 +3,10 @@
 > **AI for Biology · Latent Geometry · Stochastic Evolution · Research Systems**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI%20for%20Biology-latent%20geometry-111111" />
-  <img src="https://img.shields.io/badge/Scientific%20ML-reproducible%20systems-111111" />
-  <img src="https://img.shields.io/badge/Stochastic%20Modeling-latent%20dynamics-111111" />
-  <img src="https://img.shields.io/badge/Research%20Systems-deployed%20artifacts-111111" />
+  <img src="https://img.shields.io/badge/AI%20for%20Biology-latent%20geometry-0d1117" />
+  <img src="https://img.shields.io/badge/Scientific%20ML-reproducible%20systems-0d1117" />
+  <img src="https://img.shields.io/badge/Stochastic%20Modeling-latent%20dynamics-0d1117" />
+  <img src="https://img.shields.io/badge/Biological%20Foundation%20Models-auditable%20spaces-0d1117" />
 </p>
 
 <p align="left">
@@ -30,13 +30,19 @@ Not only training models.
 Not only plotting embeddings.  
 But asking what kind of biological geometry remains when life is translated into latent coordinates.
 
+<p align="center">
+  <sub>
+    sequence → embedding → geometry → stochastic motion → biological interpretation
+  </sub>
+</p>
+
 ---
 
 ## Signal
 
 I am an M.Sc. candidate in Applied Mathematics working on **AI for Biology**, with a focus on the geometry and dynamics of learned biological representation spaces.
 
-My current research orbit includes:
+My research orbit:
 
 <table>
   <tr>
@@ -70,15 +76,25 @@ I care about models that can be audited, not just trained.
 ## Current Vector
 
 <pre>
-biological sequences
-        ↓
-foundation model embeddings
-        ↓
-latent geometry audit
-        ↓
-stochastic dynamics
-        ↓
-scientific interpretation
+┌──────────────────────────────┐
+│ biological sequences          │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ foundation model embeddings   │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ latent geometry audit         │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ stochastic dynamics           │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ scientific interpretation     │
+└──────────────────────────────┘
 </pre>
 
 My thesis investigates **continuous stochastic modeling of antigenic drift in Influenza A** using latent SDEs guided by competitive fitness landscapes.
@@ -114,7 +130,7 @@ In practice, this means asking whether learned biological representation spaces 
 
 This project studies whether AntigenLM latent spaces preserve biologically meaningful structure across molecular similarity, temporal organization, subtype behavior, intrinsic dimension, and evolutionary-taxonomic neighborhoods.
 
-It treats the embedding space as an object of scientific inspection.
+It treats the embedding space as an object of scientific inspection: not a visualization endpoint, but a biological hypothesis surface.
 
 <p>
   <a href="https://github.com/cmorregof/latent_geometry"><strong>Repository</strong></a>
@@ -129,6 +145,12 @@ It treats the embedding space as an object of scientific inspection.
 AntigenSDE explores continuous-time latent dynamics for Influenza A evolution, combining biological sequence embeddings with stochastic differential equations, competitive fitness landscapes, Monte Carlo simulation, and uncertainty-aware trajectories.
 
 The goal is not to decorate embeddings with dynamics, but to ask whether latent biological spaces can sustain a useful mathematical model of motion.
+
+<p>
+  <sub>
+    latent state · drift field · diffusion term · fitness landscape · trajectory ensemble
+  </sub>
+</p>
 
 ---
 
