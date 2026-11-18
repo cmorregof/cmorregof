@@ -30,7 +30,7 @@ These numbers come from a reference implementation written with AI coding assist
 
 ## Formal proof judges as reward · [prometeo](https://github.com/cmorregof/prometeo)
 
-*Prometeo desencadenado*, M.Sc. thesis.
+*Prometheus Unbound*, M.Sc. thesis.
 
 On a university Isabelle benchmark, 6 of 220 validated (model, exercise) pairs depended on the model declaring the theorem as an axiom. A defect in my own harness rejected 218 lemma submissions in the memory condition only, and 184 passed after the fix. The main learning hypothesis came out null twice, and I reported it that way.
 
